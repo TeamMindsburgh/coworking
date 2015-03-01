@@ -6,3 +6,10 @@ You can provide submissions in one of two ways:
 
 * Add a comment to the "Submissions" issue in the "Issues" section
 * Fork the repository, add your submissions, and submit a pull request
+
+### General Guidelines
+
+* Organize the folders by Continent > Country > State/Region > City
+* Include as much detail as you can
+* Provide relevant links
+* No promotions / sales oriented content please
