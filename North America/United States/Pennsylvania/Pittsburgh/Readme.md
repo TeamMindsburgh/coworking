@@ -9,6 +9,9 @@ About: Multiple locations in East Liberty area of Pittsburgh. Memberships range 
 
 The Hardware Store
 ==================
-Location:
-Website:
-About:
+
+Location: 644 E Warrington Ave, Pittsburgh, PA 15210 [Map](https://www.google.com/maps/place/The+Hardware+Store/@40.421537,-79.994083,17z/data=!4m2!3m1!1s0x0:0x1294bd215da13167?hl=en-US)
+
+Website: http://workhardpgh.com
+
+About: Coworking space in the Allentown area, with desks starting at $150/month. The Hardware Store also provides common services like technology, marketing etc. for its members at a competitive rate.
